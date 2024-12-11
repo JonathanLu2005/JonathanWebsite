@@ -18,6 +18,7 @@ import {
     bloomberg,
     bofa,
     wfs,
+    portfolio,
     crisiscompass,
     quizzygoose,
 } from "../assets";
@@ -197,6 +198,31 @@ const testimonials = [
 ];
   
 const projects = [
+    {
+      name: "Personal Website",
+      description:
+        "Brought my CV to life with JavaScript, ReactJS, and Tailwind CSS. This websites purely focuses on my technical experience, professionally and personally. Alongside my academics.",
+      tags: [
+        {
+          name: "javascript",
+          color: "blue-text-gradient",
+        },
+        {
+          name: "react-js",
+          color: "blue-text-gradient",
+        },
+        {
+          name: "tailwind-css",
+          color: "blue-text-gradient",
+        },
+        {
+          name: "github-pages",
+          color: "blue-text-gradient",
+        },
+      ],
+      image: portfolio,
+      source_code_link: "https://github.com/JonathanLu2005/JonathanWebsite",
+    },
     {
       name: "Crisis Compass",
       description:

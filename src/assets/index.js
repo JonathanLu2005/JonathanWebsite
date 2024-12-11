@@ -25,6 +25,7 @@ import bloomberg from "./company/bloomberg.png";
 import wfs from "./wfs.png";
 import quizzygoose from "./quizzygoose.png";
 import crisiscompass from "./crisiscompass.png";
+import portfolio from "./portfolio.png";
 
 export {
   backend,
@@ -49,6 +50,7 @@ export {
   bloomberg,
   bofa,
   wfs,
+  portfolio,
   crisiscompass,
   quizzygoose,
 };
