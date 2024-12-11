@@ -48,7 +48,7 @@ const Works = () => {
       <motion.div
       variants={textVariant()}>
         <p className={styles.sectionSubText}>
-          My projects
+          My portfolio
         </p>
 
         <h2 className={styles.sectionHeadText}>
@@ -61,8 +61,10 @@ const Works = () => {
         variants={fadeIn("", "", 0.1, 1)}
         className="mt-3 text-secondary text-[17px] max-w-3xl leading-[30px]">
           My projects showcase my passion for creating innovative software solutions. 
-          I’ve developed full-stack platforms, scalable websites, and integrated AI, focusing on practical solutions to real-world challenges. 
-          Whether leading a hackathon team or collaborating on complex systems, I take pride in tackling challenges and delivering impactful software.
+          I’ve developed full-stack platforms, scalable websites, and integrated AI, focusing on practical solutions 
+          to real-world challenges. 
+          Whether leading a hackathon team or collaborating on complex systems, 
+          I take pride in tackling challenges and delivering impactful software.
         </motion.p>
       </div>
 

@@ -18,7 +18,9 @@ const Hero = () => {
           </h1>
 
           <p className={`${styles.heroSubText} mt-2 text-white-100`}>
-            I'm a Warwick University Computer Science Undergraduate aspiring to become a Software Engineer in a specialised field within the tech industry.
+            I'm a Warwick University Computer Science Undergraduate aspiring to become a Software Engineer. 
+            <br></br>
+            Quite recently, I have accepted an offer to work as a Software Engineering Intern at Amazon.
           </p>
 
           <div className="mt-6 flex flex-col sm:flex-row gap-4 text-white">

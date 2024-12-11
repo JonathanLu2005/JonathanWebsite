@@ -47,7 +47,16 @@ const About = () => {
       <motion.p
       variants={fadeIn("", "", 0.1, 1)}
       className="mt-4 text-secondary text-[17px] max-w-3xl leading-[30px]">
-        I’m a Computer Science undergraduate at Warwick University with a 2:1 in my first year. My experience includes software engineering internships, hackathon leadership, and expertise in Python, Flask, Java, and SQL. I’ve developed AI-driven platforms and streamlined data pipelines, using tools like FastAPI, Matplotlib, and PostgreSQL. Passionate about teamwork and problem-solving, I bring a strong technical foundation and a drive for impactful projects.
+        My interest started with watching Michael Reeves. 
+        From here, I became interested in programming and pursued Computer Science at Warwick University.
+        To satisfy my curiosity, I have self-learnt an array of languages and tools.
+        <br></br>
+        <br></br>
+        Consequently, I have worked as a Software Engineering Intern at WMG, won a hackathon, and built projects.
+        I hope to polish myself further by seizing future opportunities.
+        <br></br>
+        <br></br>
+        Below my interests lies in
       </motion.p>
 
       <div className="mt-20 flex flex-wrap gap-10">
